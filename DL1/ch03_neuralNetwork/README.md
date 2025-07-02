@@ -52,7 +52,7 @@
 
 - **정의**:
 
-  ![relu](<https://latex.codecogs.com/png.image?\dpi{120}y=\max(0,;x)>)
+  ![relu](https://latex.codecogs.com/png.image?\dpi{120}y=\max(0,\;x))
 
 - **특징**:
 
@@ -67,7 +67,7 @@
 
 - **정의 (출력층에 사용)**:
 
-  ![softmax](https://latex.codecogs.com/png.image?\dpi{120}y_k=\frac{e^{a_k}}{\sum_{j=1}^{n}e^{a_j}})
+  ![softmax](https://latex.codecogs.com/png.image?\dpi{120}y_k=\frac{e^{a_k}}{\sum_{i=1}^{n}e^{a_i}})
 
 - **특징**:
 
@@ -76,7 +76,7 @@
   - 값이 큰 입력일수록 확률이 더 크게 나옴
 
 - **시각화**:  
-  ![softmax](https://upload.wikimedia.org/wikipedia/commons/2/22/Softmax_function.svg)
+  ![softmax](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*zA7mZRgLX0I9SeOwl4qTPA.png)
 
 ---
 
