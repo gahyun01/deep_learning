@@ -52,7 +52,7 @@
 
 - **정의**:
 
-  ![relu](https://latex.codecogs.com/png.image?\dpi{120}y=\max(0,\;x))
+  ![relu](https://latex.codecogs.com/png.image?\dpi{120}y=\max(0,x))
 
 - **특징**:
 
@@ -74,9 +74,6 @@
   - 출력값의 총합이 1 → **확률 분포로 해석 가능**
   - 주로 **분류 문제**의 출력층에 사용
   - 값이 큰 입력일수록 확률이 더 크게 나옴
-
-- **시각화**:  
-  ![softmax](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*zA7mZRgLX0I9SeOwl4qTPA.png)
 
 ---
 
